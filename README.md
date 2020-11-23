@@ -7,7 +7,7 @@ A collection of individual [brownfield land registers](https://www.gov.uk/guidan
 The national dataset is in a format consistent with other Digital Land datasets as defined by the [brownfield-land schema](https://digital-land.github.io/specification/schema/brownfield-land/).
 
 * [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) — GOV.UK guidance for local planning authorities on brownfield land to be included in their register.
-* [publish your brownfield land register](https://www.gov.uk/government/publications/brownfield-land-registers-data-standard/publish-your-brownfield-land-data) — guidance for local planning authorities on the data format when publishing brownfield land data.
+* [publish your brownfield land data](https://www.gov.uk/government/publications/brownfield-land-registers-data-standard/publish-your-brownfield-land-data) — guidance for local planning authorities on the data format when publishing brownfield land data.
 
 # Collection
 

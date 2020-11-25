@@ -7,12 +7,15 @@ __pycache__/
 
 *.swp
 
-local
-tmp
+local/
+tmp/
 
 # ignore the collection index, for now
 collection/log.csv
 collection/resource.csv
 
 # ignore intermediate files
-var
+var/
+
+# ignore updated specification files
+specification/

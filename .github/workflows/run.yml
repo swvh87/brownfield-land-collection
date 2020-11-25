@@ -8,7 +8,7 @@ on:
       - 'index/**'
       - 'var/**'
     branches:
-      master
+      main
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -52,5 +52,5 @@ jobs:
     - name: Run Make
       run: make -B transform dataset index
 
-    - name: Commit harmonised files, dataset and indexes
+    - name: Commit transformed files, dataset and indexes
       run: make commit-data

@@ -20,11 +20,15 @@ ifeq ($(FIXED_DIR),)
 FIXED_DIR=fixed/
 endif
 
+ifeq ($(CACHE_DIR),)
+CACHE_DIR=var/cache
+endif
+
 second-pass::
 	@$(MAKE) --no-print-directory pipeline
 
 # restart the make process to pick-up collected files
-pipeline::	transformed
+pipeline::	transform
 
 
 #
@@ -84,6 +88,9 @@ map: $(MAPPED_FILES)
 HARMONISED_DIR=var/harmonised/
 HARMONISED_FILES := $(subst $(CONVERTED_DIR),$(HARMONISED_DIR),$(CONVERTED_FILES))
 
+HARMONISE_DATA=\
+	$(CACHE_DIR)/organisation.csv
+
 # a file of issues is produced for each resource
 ISSUE_DIR=var/issue/
 ISSUE_FILES := $(subst $(CONVERTED_DIR),$(ISSUE_DIR),$(CONVERTED_FILES))
@@ -108,6 +115,12 @@ $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 
 transform: $(TRANSFORMED_FILES)
 	@:
+
+
+# local copies of datasets
+$(CACHE_DIR)/organisation.csv:
+	@mkdir -p $(CACHE_DIR)
+	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/master/collection/organisation.csv" > $@
 
 
 # update makerules from source

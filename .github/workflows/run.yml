@@ -34,14 +34,14 @@ jobs:
         git remote set-url origin https://${DLB_BOT_USERNAME}:${DLB_BOT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         git checkout ${GITHUB_REF##*/}
 
-    - name: Install dependencies
-      run: make init
-
     - name: Update makerules
       run: make update
 
-    - name: Commit makerules
+    - name: Commit updated makerules
       run: make commit-update
+
+    - name: Install dependencies
+      run: make init
 
     - name: Collect resources
       run: make collect
@@ -49,8 +49,8 @@ jobs:
     - name: Commit resources
       run: make commit-resources
 
-    - name: Run Make
-      run: make -B transform dataset index
+    - name: Pipeline
+      run: echo make transform dataset index
 
     - name: Commit transformed files, dataset and indexes
-      run: make commit-data
+      run: echo make commit-data

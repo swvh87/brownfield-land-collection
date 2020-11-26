@@ -50,7 +50,7 @@ jobs:
       run: make commit-resources
 
     - name: Pipeline
-      run: echo make transform dataset index
+      run: make transform dataset index
 
     - name: Commit transformed files, dataset and indexes
-      run: echo make commit-data
+      run: make commit-data

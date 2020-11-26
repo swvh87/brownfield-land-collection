@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 
-A collection of individual [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) collected each night from local planning authorities.
+A collection of individual [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) collected each night from local planning authorities, which are processed and then assembled into a national dataset.
 
 The national dataset is in a format consistent with other Digital Land datasets as defined by the [brownfield-land schema](https://digital-land.github.io/specification/schema/brownfield-land/).
 
@@ -15,14 +15,18 @@ The national dataset is in a format consistent with other Digital Land datasets 
 * [collection/endpoint.csv](collection/endpoint.csv) — the list of endpoint URLs for the collection, see [specification/endpoint](https://digital-land.github.io/specification/schema/endpoint)
 * [collection/resource/](collection/resource/) — collected resources
 * [collection/log/](collection/log/) — individual log JSON files, created by the colletion process
-* [collection/log.csv](collection/log.csv) — a collection log assembled from the individual log files, see [specification/log](https://digital-land.github.io/specification/schema/log)
-* [collection/resource.csv](collection/resource.csv) — a list of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
+* [collection/resource.csv](collection/resource.csv) — an index of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
 
 # Updating the collection
 
 We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies:
 
+    $ make update
     $ make init
+    $ make collect
+
+Collected files can be converted into a national dataset:
+
     $ make
 
 # Licence

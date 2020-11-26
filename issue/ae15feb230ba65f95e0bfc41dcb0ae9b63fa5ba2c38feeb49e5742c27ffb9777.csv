@@ -1,0 +1,35 @@
+row-number,field,issue-type,value
+1,PlanningHistory,uri,08/03962/FULMJ (approved)
+2,PlanningHistory,uri,14/501170/LBC (approved)
+3,PlanningHistory,uri,"18/00685/REM (refused), 04/02109/OUTMJ (refused), 04/02112/FULMJ (refused)"
+4,PlanningHistory,uri,15/500806/PNJCLA (approved)
+5,PlanningHistory,uri,None recent
+6,PlanningHistory,uri,15/504455/FULL (Refused)
+7,PlanningHistory,uri,"18/02102/FULL (approved 9 units 4th/5th floor), 18/01053/FULL (Approved external alterations), 18/00479/PNOCLA (Prior approval not required 85 units), 17/02345/PNOCLA (Prior approval not required 80 units), 16/06195/PNOCLA (Prior approval not required 112 units) 13/02000/PNRES (prior approval not required)"
+8,PlanningHistory,uri,15/510061/PNOCLA (prior approval not required)
+9,PlanningHistory,uri,"15/504820/FULL (approved), 15/508764/FULL (approved)"
+10,PlanningHistory,uri,16/07532/PNOCLA (prior approval not required 24 units)
+11,PlanningHistory,uri,None recent
+12,PlanningHistory,uri,None recent
+13,PlanningHistory,uri,15/500591/LBC (approved)
+14,PlanningHistory,uri,None recent
+15,PlanningHistory,uri,12/00057/FUL (gararge related approved)
+16,PlanningHistory,uri,adjoining site 04/01948/FULMJ (176 dwellings approved)
+17,PlanningHistory,uri,17/00987/FULL (approved)
+18,PlanningHistory,uri,None recent
+19,PlanningHistory,uri,None recent
+20,PermissionDate,date,Pending
+20,PlanningHistory,uri,07/00343/FULMJ (74 dwellings Refused)
+21,PlanningHistory,uri,13/01769/ADV (approved advertisement sign)
+22,PlanningHistory,uri,None recent
+23,PlanningHistory,uri,None recent
+24,PermissionDate,date,Pending
+24,PlanningHistory,uri,None recent
+25,PlanningHistory,uri,16/504124/OUT (Approved)14/506196/OUT (residential refused)
+26,PlanningHistory,uri,"13/03154/FULMC (approved) 17/00590/FULL (Refused), 18/01069/FULL (approved)"
+27,PlanningHistory,uri,"18/01385/SUB (Approved), 18/01878/SUB (Approved)"
+29,PlanningHistory,uri,17/02252/PNOCLA (Refused)
+30,PlanningHistory,uri,"17/00805/FULL (Approved), 17/03336/LBC (Approved)"
+31,PlanningHistory,uri,"12/00389/FUL (Approved), 12/00392/LBC (Approved), 12/00390/EIASCR (Not required), 14/01210/NMAMD (Approved),14/01223/LBC (Approved), 17/04323/LBC (Approved), 17/04340/ENVSCR (Not required),18/02040/SUB (Approved), 18/02045/SUB (Approved)"
+32,PlanningHistory,uri,16/07058/FULL (Refused)
+34,PlanningHistory,uri,16/07353/ENVSCR (Not required)

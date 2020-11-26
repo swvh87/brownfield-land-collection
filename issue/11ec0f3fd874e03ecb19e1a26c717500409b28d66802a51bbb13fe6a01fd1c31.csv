@@ -1,0 +1,28 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeTo,integer,To be determined by planning application
+1,NetDwellingsRangeTo,default,10
+2,NetDwellingsRangeTo,integer,To be determined by planning application
+2,NetDwellingsRangeTo,default,37
+3,PlanningHistory,uri,17/503888/OUT
+3,NetDwellingsRangeTo,integer,To be determined by planning application
+3,NetDwellingsRangeTo,default,70
+4,NetDwellingsRangeTo,integer,To be determined by planning application
+4,NetDwellingsRangeTo,default,75
+5,NetDwellingsRangeTo,integer,To be determined by planning application
+5,NetDwellingsRangeTo,default,80
+6,PlanningHistory,uri,16/508643/FULL
+7,NetDwellingsRangeTo,integer,To be determined by planning application
+7,NetDwellingsRangeTo,default,379
+8,PlanningHistory,uri,16/506946/FULL
+9,NetDwellingsRangeTo,integer,To be determined by planning application
+9,NetDwellingsRangeTo,default,10
+10,NetDwellingsRangeTo,integer,To be determined by planning application
+10,NetDwellingsRangeTo,default,380
+11,PlanningHistory,uri,17/502935/OUT
+11,NetDwellingsRangeTo,integer,To be determined by planning application
+11,NetDwellingsRangeTo,default,60
+12,NetDwellingsRangeTo,integer,To be determined by planning application
+12,NetDwellingsRangeTo,default,240
+13,PlanningHistory,uri,17/504376/FULL
+14,PlanningHistory,uri,14/506519/FULL
+15,PlanningHistory,uri,15/501089/FULL

@@ -1,0 +1,46 @@
+row-number,field,issue-type,value
+1,PlanningHistory,uri,08/03962/FULMJ (approved)
+2,PlanningHistory,uri,14/501170/LBC (approved)
+3,PlanningHistory,uri,04/02109/OUTMJ (refused) 04/02112/FULMJ (refused)
+4,PlanningHistory,uri,15/500806/PNJCLA (approved)
+5,PlanningHistory,uri,"11/02358/FUL (approved), 14/01247/FULL (approved)"
+6,PlanningHistory,uri,11/02358/FUL (approved) 13/03493/PNRES (prior approval not required)
+7,PlanningHistory,uri,14/01413/FULL (withdrawn)
+8,PlanningHistory,uri,None recent
+9,PlanningHistory,uri,15/504455/FULL (Refused)
+10,PlanningHistory,uri,13/02000/PNRES (prior approval not required)
+11,PlanningHistory,uri,15/510061/PNOCLA (prior approval not required)
+12,PlanningHistory,uri,"15/504820/FULL (approved), 15/508764/FULL (approved)"
+13,PlanningHistory,uri,17/03114/FULL (approved)
+14,PlanningHistory,uri,16/07532/PNOCLA (prior approval not required)
+15,PlanningHistory,uri,None recent
+16,PlanningHistory,uri,None recent
+17,PlanningHistory,uri,"14/501360/PNBCM (approved), 15/501950/PNJCLA (prior approval not required), 15/502423/FULL (approved), 15/505557/FULL (approved),"
+18,PlanningHistory,uri,None recent
+19,PlanningHistory,uri,16/06422/PNOCLA (prior approval not required)
+20,PlanningHistory,uri,17/00627/PNOCLA (prior approval not required)
+21,PlanningHistory,uri,None recent
+22,PlanningHistory,uri,17/03158/PNOCLA (pending)
+23,PermissionDate,date,Pending
+23,PlanningHistory,uri,14/505543/PNJCLA (expired)
+24,PlanningHistory,uri,None recent
+25,PermissionDate,date,Pending
+25,PlanningHistory,uri,None recent
+26,PlanningHistory,uri,15/500591/LBC (approved)
+27,PermissionDate,date,appeal allowed 05/01/2017
+27,PlanningHistory,uri,17/03826/REM (pending)
+28,PlanningHistory,uri,None recent
+29,PlanningHistory,uri,12/00057/FUL (gararge related approved)
+30,PlanningHistory,uri,adjoining site 04/01948/FULMJ (176 dwellings approved)
+31,PlanningHistory,uri,None recent
+32,PlanningHistory,uri,None recent
+33,PlanningHistory,uri,None recent
+34,PermissionDate,date,Pending
+34,PlanningHistory,uri,07/00343/FULMJ (74 dwellings Refused)
+35,PlanningHistory,uri,13/01769/ADV (approved advertisement sign)
+36,PlanningHistory,uri,None recent
+37,PlanningHistory,uri,None recent
+38,PermissionDate,date,Pending
+38,PlanningHistory,uri,None recent
+39,PlanningHistory,uri,14/506196/OUT (residential refused)
+40,PlanningHistory,uri,16/502572/SUB (submission of details pending)

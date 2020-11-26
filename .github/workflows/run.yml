@@ -1,4 +1,4 @@
-name: Run brownfield land pipeline
+name: Run pipeline
 
 on:
   push:
@@ -26,6 +26,9 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: 3.8
+
+    - name: Branch name
+      run: echo running on branch ${GITHUB_REF##*/}
 
     - name: Setup git
       run: |

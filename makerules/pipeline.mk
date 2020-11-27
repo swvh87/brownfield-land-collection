@@ -1,10 +1,10 @@
 .PHONY: \
-	pipeline\
 	convert\
 	normalise\
 	harmonise\
 	transform\
-	dataset
+	dataset\
+	commit-dataset
 
 # data sources
 # collected resources
@@ -28,11 +28,9 @@ ifeq ($(CACHE_DIR),)
 CACHE_DIR=var/cache
 endif
 
+# restart the make process to pick-up collected resource files
 second-pass::
-	@$(MAKE) --no-print-directory pipeline
-
-# restart the make process to pick-up collected files
-pipeline::	transform
+	@$(MAKE) --no-print-directory dataset
 
 
 #
@@ -120,7 +118,7 @@ $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 transform:: $(TRANSFORMED_FILES)
 	@:
 
-dataset::
+dataset:: $(TRANSFORMED_FILES)
 	@:
 
 # local copies of datasets
@@ -129,10 +127,9 @@ $(CACHE_DIR)/organisation.csv:
 	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/master/collection/organisation.csv" > $@
 
 
-# update makerules from source
-update::
+makerules::
 	curl -qsL '$(SOURCE_URL)/makerules/master/pipeline.mk' > makerules/pipeline.mk
 
-commit-data::
-	git add transformed issue data
+commit-dataset::
+	git add transformed issue dataset
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Data $(shell date +%F)"; git push origin $(BRANCH))

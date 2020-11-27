@@ -38,22 +38,22 @@ jobs:
         git checkout ${GITHUB_REF##*/}
 
     - name: Update makerules
-      run: make update
+      run: make makerules
 
     - name: Commit updated makerules
-      run: make commit-update
+      run: make commit-makerules
 
     - name: Install dependencies
       run: make init
 
-    - name: Collect resources
+    - name: Run the collector
       run: make collect
 
-    - name: Commit resources
-      run: make commit-resources
+    - name: Commit collection
+      run: make commit-collection
 
-    - name: Pipeline
-      run: make transform dataset
+    - name: Run the pipeline to make the dataset
+      run: make dataset
 
-    - name: Commit transformed files and dataset
-      run: make commit-data
+    - name: Commit transformed files, the national dataset, and packages
+      run: make commit-dataset

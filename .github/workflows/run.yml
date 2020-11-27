@@ -53,7 +53,7 @@ jobs:
       run: make commit-resources
 
     - name: Pipeline
-      run: make transform dataset index
+      run: make transform dataset
 
-    - name: Commit transformed files, dataset and indexes
+    - name: Commit transformed files and dataset
       run: make commit-data

@@ -29,6 +29,10 @@ Collected files can be converted into a national dataset:
 
     $ make
 
+# Nightly collection
+
+The collection is [updated nightly](https://github.com/digital-land/brownfield-land-collection/actions) by the [GitHub Action](.github/workflows/run.yml).
+
 # Licence
 
 The software in this project is open source and covered by the [LICENSE](LICENSE) file.

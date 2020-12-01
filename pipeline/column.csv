@@ -94,6 +94,7 @@ brownfield-land,,Min dwellings,MinNetDwellings
 brownfield-land,,MINIMUM NET DWELLINGS,MinNetDwellings
 brownfield-land,,Max dwellings,NetDwellingsRangeTo
 brownfield-land,,MAXIMUM NET DWELLINGS,NetDwellingsRangeTo
+brownfield-land,,NetDwellingsRangeForm,NetDwellingsRangeFrom
 brownfield-land,,DevelopmentDescription,Notes
 brownfield-land,,SiteInformation,Notes
 brownfield-land,,Date first entered on the register,FirstAddedDate

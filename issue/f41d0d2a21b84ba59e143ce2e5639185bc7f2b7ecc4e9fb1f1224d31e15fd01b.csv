@@ -75,15 +75,15 @@ row-number,field,issue-type,value
 36,NetDwellingsRangeTo,default,5
 37,NetDwellingsRangeFrom,default,0
 37,NetDwellingsRangeTo,default,0
-38,OrganisationURI,opendatacommunities-uri,OrganisationURI
+38,OrganisationURI,opendatacommunities-uri,organisationuri
 38,OrganisationURI,uri,OrganisationURI
 38,SiteplanURL,uri,Site plan URL
-38,HazardousSubstances,flag,hazardous substances
 38,PermissionDate,date,Permission Date
 38,PlanningHistory,uri,Planning History
 38,MinNetDwellings,integer,Min Net Dwellings
 38,NetDwellingsRangeFrom,integer,Net Dwellings Range From
 38,NetDwellingsRangeTo,integer,Net Dwellings Range To
+38,HazardousSubstances,flag,hazardous substances
 38,FirstAddedDate,date,First Added Date
 38,LastUpdatedDate,date,Last Updated Date
 38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cherwell

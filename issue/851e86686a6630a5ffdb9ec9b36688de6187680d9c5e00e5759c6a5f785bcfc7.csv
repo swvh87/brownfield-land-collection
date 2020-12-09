@@ -7,8 +7,8 @@ row-number,field,issue-type,value
 2,NetDwellingsRangeFrom,default,10
 2,NetDwellingsRangeTo,default,10
 2,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
-3,OrganisationURI,opendatacommunities-uri,
 3,MinNetDwellings,integer,6 (net)
+3,OrganisationURI,opendatacommunities-uri,
 3,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 4,OrganisationURI,opendatacommunities-uri,
 4,NetDwellingsRangeFrom,default,34
@@ -30,8 +30,8 @@ row-number,field,issue-type,value
 8,NetDwellingsRangeFrom,default,4
 8,NetDwellingsRangeTo,default,4
 8,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
-9,OrganisationURI,opendatacommunities-uri,
 9,MinNetDwellings,integer,1 (net)
+9,OrganisationURI,opendatacommunities-uri,
 9,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 10,OrganisationURI,opendatacommunities-uri,
 10,NetDwellingsRangeFrom,default,7
@@ -53,11 +53,11 @@ row-number,field,issue-type,value
 14,NetDwellingsRangeFrom,default,17
 14,NetDwellingsRangeTo,default,17
 14,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
-15,OrganisationURI,opendatacommunities-uri,
 15,MinNetDwellings,integer,4 (net)
+15,OrganisationURI,opendatacommunities-uri,
 15,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
-16,OrganisationURI,opendatacommunities-uri,
 16,MinNetDwellings,integer,5 (net)
+16,OrganisationURI,opendatacommunities-uri,
 16,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 17,OrganisationURI,opendatacommunities-uri,
 17,NetDwellingsRangeFrom,default,5
@@ -71,8 +71,8 @@ row-number,field,issue-type,value
 19,NetDwellingsRangeFrom,default,7
 19,NetDwellingsRangeTo,default,7
 19,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
-20,OrganisationURI,opendatacommunities-uri,
 20,MinNetDwellings,integer,2 (net)
+20,OrganisationURI,opendatacommunities-uri,
 20,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 21,OrganisationURI,opendatacommunities-uri,
 21,NetDwellingsRangeFrom,default,59

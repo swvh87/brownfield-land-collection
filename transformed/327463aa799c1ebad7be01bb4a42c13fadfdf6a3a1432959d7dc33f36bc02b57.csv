@@ -1,6 +1,6 @@
-site-address,deliverable,end-date,entry-date,hazardous-substances,hectares,maximum-net-dwellings,minimum-net-dwellings,notes,organisation,ownership-status,planning-permission-date,planning-permission-history,planning-permission-status,planning-permission-type,site,site-plan-url,start-date
-"North Street, Great Dunmow, CM6 1BA",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,UBLR/17/006,,
-"Stansted Mountfitchet, CM24 8BZ",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,UBLR/17/010,,
-Church End Broxted CM6 2BZ,yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,UBLR/17/012,,
-"Dunmow Road, Hatfield Heath, CM22 7BL",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,UBLR/17/015,,
-"86 Cambridge Road, Stansted, CM22 7BL",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,UBLR/17/014,,
+site-address,deliverable,end-date,entry-date,hazardous-substances,hectares,maximum-net-dwellings,minimum-net-dwellings,notes,organisation,ownership-status,planning-permission-date,planning-permission-history,planning-permission-status,planning-permission-type,point,site,site-plan-url,start-date
+"North Street, Great Dunmow, CM6 1BA",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,POINT(0.363007 51.875223),UBLR/17/006,,
+"Stansted Mountfitchet, CM24 8BZ",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,POINT(0.19486 51.904568),UBLR/17/010,,
+Church End Broxted CM6 2BZ,yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,POINT(0.295113 51.922798),UBLR/17/012,,
+"Dunmow Road, Hatfield Heath, CM22 7BL",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,POINT(0.217374 51.817332),UBLR/17/015,,
+"86 Cambridge Road, Stansted, CM22 7BL",yes,,2020-03-27,,,,,,local-authority-eng:UTT,not owned by a public authority,,,permissioned,,POINT(0.197567 51.907611),UBLR/17/014,,

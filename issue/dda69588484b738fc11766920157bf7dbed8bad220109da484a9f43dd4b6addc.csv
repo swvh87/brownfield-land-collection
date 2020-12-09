@@ -24,12 +24,12 @@ row-number,field,issue-type,value
 5,NetDwellingsRangeTo,default,146
 5,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 5,LastUpdatedDate,default,2019-12-14
-6,OrganisationURI,opendatacommunities-uri,
 6,MinNetDwellings,integer,Unspecified
+6,OrganisationURI,opendatacommunities-uri,
 6,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 6,LastUpdatedDate,default,2019-12-14
-7,OrganisationURI,opendatacommunities-uri,
 7,MinNetDwellings,integer,Unspecified
+7,OrganisationURI,opendatacommunities-uri,
 7,OrganisationURI,default,http://opendatacommunities.org/id/district-council/exeter
 7,LastUpdatedDate,default,2019-12-14
 8,OrganisationURI,opendatacommunities-uri,

@@ -894,16 +894,16 @@ row-number,field,issue-type,value
 481,LastUpdatedDate,default,2018-05-22
 482,PlanningHistory,uri,13/00546/RC  14/01210/FUL
 482,LastUpdatedDate,default,2018-05-22
-483,OrganisationURI,opendatacommunities-uri,
 483,PlanningHistory,uri,15/00832/FUL  15/00497/FUL
+483,OrganisationURI,opendatacommunities-uri,
 483,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
 483,LastUpdatedDate,default,2018-05-22
-484,OrganisationURI,opendatacommunities-uri,
 484,PlanningHistory,uri,15/00832/FUL  15/00497/FUL
+484,OrganisationURI,opendatacommunities-uri,
 484,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
 484,LastUpdatedDate,default,2018-05-22
-485,OrganisationURI,opendatacommunities-uri,
 485,PlanningHistory,uri,16/00257/FUL
+485,OrganisationURI,opendatacommunities-uri,
 485,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton
 485,LastUpdatedDate,default,2018-05-22
 486,PlanningHistory,uri,15/01026/LDO

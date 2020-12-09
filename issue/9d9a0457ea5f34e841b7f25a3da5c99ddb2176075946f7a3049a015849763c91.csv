@@ -170,7 +170,7 @@ row-number,field,issue-type,value
 61,LastUpdatedDate,default,2018-05-22
 62,LastUpdatedDate,default,2018-05-22
 63,LastUpdatedDate,default,2018-05-22
-64,OrganisationURI,opendatacommunities-uri,http://eforms.eden.gov.uk/fastweb/detail.asp?AltRef=07/0343&ApplicationNumber=07%2F0343&AddressPrefix=&Postcode=&Submit=Search
+64,OrganisationURI,opendatacommunities-uri,http://eforms.eden.gov.uk/fastweb/detail.asp?altref=07/0343&applicationnumber=07%2f0343&addressprefix=&postcode=&submit=search
 64,LastUpdatedDate,default,2018-05-22
 65,LastUpdatedDate,default,2018-05-22
 66,LastUpdatedDate,default,2018-05-22

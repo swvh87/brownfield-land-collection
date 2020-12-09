@@ -133,7 +133,7 @@ row-number,field,issue-type,value
 30,NetDwellingsRangeFrom,default,9
 30,NetDwellingsRangeTo,default,9
 30,LastUpdatedDate,default,2018-05-22
-31,OrganisationURI,opendatacommunities-uri,BLR
+31,OrganisationURI,opendatacommunities-uri,blr
 31,OrganisationURI,uri,BLR
 31,FirstAddedDate,date,31-06-2017
 31,NetDwellingsRangeFrom,default,14

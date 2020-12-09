@@ -135,8 +135,8 @@ row-number,field,issue-type,value
 67,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 68,OrganisationURI,opendatacommunities-uri,
 68,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
-69,OrganisationURI,opendatacommunities-uri,
 69,PermissionDate,date,29/02/2017
+69,OrganisationURI,opendatacommunities-uri,
 69,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford
 70,OrganisationURI,opendatacommunities-uri,
 70,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/bedford

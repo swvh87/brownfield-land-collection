@@ -22,9 +22,9 @@ row-number,field,issue-type,value
 7,PlanningHistory,uri,2016-11-03
 7,"GeoX,GeoY",Failed to convert point to decimal %s,"['ETRS89', '51.293765']"
 8,SiteplanURL,uri,"Institute Of Further Education,Dene St,Dorking RH4 3EB"
+8,Deliverable,flag,owned by a public authority
 8,PermissionDate,date,full planning permission
 8,PlanningHistory,uri,2016-12-23
-8,Deliverable,flag,owned by a public authority
 8,"GeoX,GeoY",Failed to convert point to decimal %s,"['ETRS89', '51.230391']"
 9,SiteplanURL,uri,"37 & 39 Kingston Rd,Leatherhead KT22 7SL"
 9,PermissionDate,date,full planning permission
@@ -47,12 +47,12 @@ row-number,field,issue-type,value
 13,PlanningHistory,uri,2018-09-07
 13,"GeoX,GeoY",Failed to convert point to decimal %s,"['ETRS89', '51.307319']"
 14,SiteplanURL,uri,Rear of Grantham House
-14,HazardousSubstances,flag,9
+14,Deliverable,flag,https://maps.molevalley.gov.uk/
 14,PermissionDate,date,-0.330961
 14,PlanningHistory,uri,0.10
 14,MinNetDwellings,integer,yes
 14,NetDwellingsRangeFrom,integer,http://www.molevalley.gov.uk/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=MO/2018/0738
-14,Deliverable,flag,https://maps.molevalley.gov.uk/
+14,HazardousSubstances,flag,9
 14,LastUpdatedDate,default,2019-12-14
 14,"GeoX,GeoY",Failed to convert point to decimal %s,"['North Street', 'Leatherhead']"
 15,SiteplanURL,uri,"Stocks House,9,North Street,Leatherhead,Surrey,KT22 7AX"

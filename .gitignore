@@ -8,8 +8,10 @@ __pycache__/
 
 *.swp
 
-local/
 tmp/
+
+# ignore local packages
+*.egg-info/
 
 # ignore the collection index, for now
 collection/log.csv

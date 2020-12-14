@@ -63,7 +63,7 @@ prune::
 makerules::
 	curl -qsL '$(SOURCE_URL)/makerules/main/makerules.mk' > makerules/makerules.mk
 
-ifeq (,x$(wildcard ./makerules/specification.mk))
+ifeq (,$(wildcard ./makerules/specification.mk))
 # update local copies of specification files
 init::
 	@mkdir -p specification/

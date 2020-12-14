@@ -37,7 +37,12 @@ second-pass::
 
 # initialise
 init::
+ifneq (,$(wildcard requirements.txt))
 	pip3 install --upgrade -r requirements.txt
+endif
+ifneq (,$(wildcard setup.py))
+	pip install -e .
+endif
 
 submodules::
 	git submodule update --init --recursive --remote
@@ -58,7 +63,7 @@ prune::
 makerules::
 	curl -qsL '$(SOURCE_URL)/makerules/main/makerules.mk' > makerules/makerules.mk
 
-ifeq (,$(wildcard ./makerules/specification.mk))
+ifeq (,x$(wildcard ./makerules/specification.mk))
 # update local copies of specification files
 init::
 	@mkdir -p specification/

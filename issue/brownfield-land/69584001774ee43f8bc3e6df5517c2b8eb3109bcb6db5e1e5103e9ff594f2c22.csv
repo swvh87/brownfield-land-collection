@@ -242,7 +242,6 @@ row-number,field,issue-type,value
 448,LastUpdatedDate,date,43914
 448,NetDwellingsRangeFrom,default,724
 448,NetDwellingsRangeTo,default,724
-448,LastUpdatedDate,default,2020-03-31
 449,PermissionDate,date,Pending subject to legal agreement
 449,NetDwellingsRangeFrom,default,33
 449,NetDwellingsRangeTo,default,33

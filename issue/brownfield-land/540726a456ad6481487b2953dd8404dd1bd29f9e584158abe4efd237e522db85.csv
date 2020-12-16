@@ -1,54 +1,107 @@
 row-number,field,issue-type,value
+1,OrganisationURI,uri,E06000041
 1,"GeoX,GeoY",out of range,"-1422222.24,6074582.48"
+2,OrganisationURI,uri,E06000041
 2,"GeoX,GeoY",out of range,"-1478586.69,5926846.72"
+3,OrganisationURI,uri,E06000041
 3,"GeoX,GeoY",out of range,"-1418754.86,6068579.38"
+4,OrganisationURI,uri,E06000041
 4,"GeoX,GeoY",out of range,"-1413731.65,6085370.05"
+5,OrganisationURI,uri,E06000041
 5,"GeoX,GeoY",out of range,"-1414265.75,6083512.63"
+6,OrganisationURI,uri,E06000041
 6,"GeoX,GeoY",out of range,"-1416370.23,6072375.51"
+7,OrganisationURI,uri,E06000041
 7,"GeoX,GeoY",out of range,"-1415487.93,6083416.84"
+8,OrganisationURI,uri,E06000041
 8,"GeoX,GeoY",out of range,"-1416228.02,6072321.3"
+9,OrganisationURI,uri,E06000041
 9,"GeoX,GeoY",out of range,"-1412988.13,6085947.21"
+10,OrganisationURI,uri,E06000041
 10,"GeoX,GeoY",out of range,"-1416859.3,6082435.75"
+11,OrganisationURI,uri,E06000041
 11,"GeoX,GeoY",out of range,"-1426878.3,6071161.41"
+12,OrganisationURI,uri,E06000041
 12,"GeoX,GeoY",out of range,"-1423649.52,6070908.43"
+13,OrganisationURI,uri,E06000041
 13,"GeoX,GeoY",out of range,"-1423649.52,6070908.43"
+14,OrganisationURI,uri,E06000041
 14,"GeoX,GeoY",out of range,"-1417665.6,6075578.38"
+15,OrganisationURI,uri,E06000041
 15,"GeoX,GeoY",out of range,"-1417032.57,6072034.11"
+16,OrganisationURI,uri,E06000041
 16,"GeoX,GeoY",out of range,"-1415074.76,6080570.44"
+17,OrganisationURI,uri,E06000041
 17,"GeoX,GeoY",out of range,"-1417377.57,6072093.24"
+18,OrganisationURI,uri,E06000041
 18,"GeoX,GeoY",out of range,"-1423861.84,6075407.44"
+19,OrganisationURI,uri,E06000041
 19,"GeoX,GeoY",out of range,"-1417805.55,6078761.87"
+20,OrganisationURI,uri,E06000041
 20,"GeoX,GeoY",out of range,"-1417380.1,6072016.64"
+21,OrganisationURI,uri,E06000041
 21,"GeoX,GeoY",out of range,"-1416306.18,6074599.84"
+22,OrganisationURI,uri,E06000041
 22,"GeoX,GeoY",out of range,"-1412076.1,6085011.92"
+23,OrganisationURI,uri,E06000041
 23,"GeoX,GeoY",out of range,"-1415699.99,6081487.31"
+24,OrganisationURI,uri,E06000041
 24,"GeoX,GeoY",out of range,"-1417404.33,6072047.88"
+25,OrganisationURI,uri,E06000041
 25,"GeoX,GeoY",out of range,"-1417404.33,6072047.88"
+26,OrganisationURI,uri,E06000041
 26,"GeoX,GeoY",out of range,"-1415350.45,6078026.36"
+27,OrganisationURI,uri,E06000041
 27,"GeoX,GeoY",out of range,"-1415350.45,6078026.36"
+28,OrganisationURI,uri,E06000041
 28,"GeoX,GeoY",out of range,"-1413021.67,6085330.79"
+29,OrganisationURI,uri,E06000041
 29,"GeoX,GeoY",out of range,"-1418403,6069703.88"
+30,OrganisationURI,uri,E06000041
 30,"GeoX,GeoY",out of range,"-1427255.59,6075859.02"
+31,OrganisationURI,uri,E06000041
 31,"GeoX,GeoY",out of range,"-1422001.23,6076251.52"
+32,OrganisationURI,uri,E06000041
 32,"GeoX,GeoY",out of range,"-1420386.01,6077511.4"
+33,OrganisationURI,uri,E06000041
 33,"GeoX,GeoY",out of range,"-1416233.6,6074433.02"
+34,OrganisationURI,uri,E06000041
 34,"GeoX,GeoY",out of range,"-1421962.09,6070659.8"
+35,OrganisationURI,uri,E06000041
 35,"GeoX,GeoY",out of range,"-1415376.3,6083295.72"
+36,OrganisationURI,uri,E06000041
 36,"GeoX,GeoY",out of range,"-1418808.43,6078545.06"
+37,OrganisationURI,uri,E06000041
 37,"GeoX,GeoY",out of range,"-1412921.95,6085768.1"
+38,OrganisationURI,uri,E06000041
 38,"GeoX,GeoY",out of range,"-1413802.8,6084512.66"
+39,OrganisationURI,uri,E06000041
 39,"GeoX,GeoY",out of range,"-1417900.29,6078795.13"
+40,OrganisationURI,uri,E06000041
 40,"GeoX,GeoY",out of range,"-1418721.76,6072709.49"
+41,OrganisationURI,uri,E06000041
 41,"GeoX,GeoY",out of range,"-1423597.84,6074833.49"
+42,OrganisationURI,uri,E06000041
 42,"GeoX,GeoY",out of range,"-1415966.73,6072476.89"
+43,OrganisationURI,uri,E06000041
 43,"GeoX,GeoY",out of range,"-1414324.4,6086751.33"
+44,OrganisationURI,uri,E06000041
 44,"GeoX,GeoY",out of range,"-1416861.8,6076248.12"
+45,OrganisationURI,uri,E06000041
 45,"GeoX,GeoY",out of range,"-1412340.36,6081868.8"
+46,OrganisationURI,uri,E06000041
 46,"GeoX,GeoY",out of range,"-1414688.15,6081133.26"
+47,OrganisationURI,uri,E06000041
 47,"GeoX,GeoY",out of range,"-1423910.74,6075718"
+48,OrganisationURI,uri,E06000041
 48,"GeoX,GeoY",out of range,"-1414384.63,6081021.48"
+49,OrganisationURI,uri,E06000041
 49,"GeoX,GeoY",out of range,"-1421104.12,6071723.44"
+50,OrganisationURI,uri,E06000041
 50,"GeoX,GeoY",out of range,"-1416473.51,6072239.06"
+51,OrganisationURI,uri,E06000041
 51,"GeoX,GeoY",out of range,"-1425419.82,6076100.74"
+52,OrganisationURI,uri,E06000041
 52,"GeoX,GeoY",out of range,"-1415798.17,6072339.4"
+53,OrganisationURI,uri,E06000041
 53,"GeoX,GeoY",out of range,"-1416330.99,6072391.8"

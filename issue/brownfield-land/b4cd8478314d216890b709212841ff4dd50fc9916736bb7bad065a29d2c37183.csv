@@ -50,7 +50,6 @@ row-number,field,issue-type,value
 19,LastUpdatedDate,default,2018-04-01
 20,NetDwellingsRangeFrom,default,15
 20,NetDwellingsRangeTo,default,15
-20,LastUpdatedDate,default,2019-10-20
 21,NetDwellingsRangeFrom,default,6
 21,NetDwellingsRangeTo,default,6
 22,NetDwellingsRangeFrom,default,53

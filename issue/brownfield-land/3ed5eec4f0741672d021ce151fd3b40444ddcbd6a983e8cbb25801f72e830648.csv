@@ -10,16 +10,12 @@ row-number,field,issue-type,value
 5,SiteplanURL,uri,BR5
 5,NetDwellingsRangeFrom,default,41
 5,NetDwellingsRangeTo,default,41
-6,OrganisationURI,opendatacommunities-uri,
 6,SiteplanURL,uri,BR6
-6,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 7,SiteplanURL,uri,BR7
 7,NetDwellingsRangeFrom,default,3
 7,NetDwellingsRangeTo,default,3
 8,SiteplanURL,uri,BR8
-9,OrganisationURI,opendatacommunities-uri,
 9,SiteplanURL,uri,BR9
-9,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 10,SiteplanURL,uri,BR10
 10,NetDwellingsRangeFrom,default,8
 10,NetDwellingsRangeTo,default,8

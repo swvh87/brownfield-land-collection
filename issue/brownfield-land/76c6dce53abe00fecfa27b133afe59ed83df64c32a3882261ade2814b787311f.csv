@@ -119,7 +119,6 @@ row-number,field,issue-type,value
 59,NetDwellingsRangeTo,default,9
 60,NetDwellingsRangeFrom,default,30
 60,NetDwellingsRangeTo,default,30
-60,LastUpdatedDate,default,2019-10-20
 61,NetDwellingsRangeFrom,default,5
 61,NetDwellingsRangeTo,default,5
 62,NetDwellingsRangeFrom,default,25
@@ -184,7 +183,6 @@ row-number,field,issue-type,value
 89,LastUpdatedDate,date,43100
 89,NetDwellingsRangeFrom,default,134
 89,NetDwellingsRangeTo,default,134
-89,LastUpdatedDate,default,2019-10-20
 90,NetDwellingsRangeFrom,default,73
 90,NetDwellingsRangeTo,default,73
 91,NetDwellingsRangeFrom,default,8
@@ -195,7 +193,6 @@ row-number,field,issue-type,value
 93,LastUpdatedDate,date,43100
 93,NetDwellingsRangeFrom,default,24
 93,NetDwellingsRangeTo,default,24
-93,LastUpdatedDate,default,2019-10-20
 94,NetDwellingsRangeFrom,default,30
 94,NetDwellingsRangeTo,default,30
 95,NetDwellingsRangeFrom,default,150

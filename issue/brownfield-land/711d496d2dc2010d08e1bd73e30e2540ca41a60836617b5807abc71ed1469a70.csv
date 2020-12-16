@@ -24,4 +24,3 @@ row-number,field,issue-type,value
 7,MinNetDwellings,integer,TBC
 7,LastUpdatedDate,default,2017-09-29
 8,PlanningHistory,uri,04/00241/FUL
-8,LastUpdatedDate,default,2019-10-20

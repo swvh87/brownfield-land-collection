@@ -121,7 +121,6 @@ row-number,field,issue-type,value
 60,NetDwellingsRangeTo,default,9
 61,NetDwellingsRangeFrom,default,30
 61,NetDwellingsRangeTo,default,30
-61,LastUpdatedDate,default,2018-05-22
 62,NetDwellingsRangeFrom,default,5
 62,NetDwellingsRangeTo,default,5
 63,NetDwellingsRangeFrom,default,25

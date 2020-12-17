@@ -1,0 +1,197 @@
+row-number,field,issue-type,value
+1,FirstAddedDate,date,2017/12/21 00:00:00+00
+1,LastUpdatedDate,date,2020/12/10 00:00:00+00
+1,NetDwellingsRangeFrom,default,187
+1,NetDwellingsRangeTo,default,187
+1,LastUpdatedDate,default,2020-12-17
+2,FirstAddedDate,date,2017/12/21 00:00:00+00
+2,LastUpdatedDate,date,2020/12/10 00:00:00+00
+2,NetDwellingsRangeFrom,default,8
+2,NetDwellingsRangeTo,default,8
+2,LastUpdatedDate,default,2020-12-17
+3,FirstAddedDate,date,2017/12/21 00:00:00+00
+3,LastUpdatedDate,date,2020/12/10 00:00:00+00
+3,NetDwellingsRangeFrom,default,6
+3,NetDwellingsRangeTo,default,6
+3,LastUpdatedDate,default,2020-12-17
+4,FirstAddedDate,date,2017/12/21 00:00:00+00
+4,LastUpdatedDate,date,2020/12/10 00:00:00+00
+4,NetDwellingsRangeFrom,default,6
+4,NetDwellingsRangeTo,default,6
+4,LastUpdatedDate,default,2020-12-17
+5,FirstAddedDate,date,2017/12/21 00:00:00+00
+5,LastUpdatedDate,date,2020/12/10 00:00:00+00
+5,NetDwellingsRangeFrom,default,8
+5,NetDwellingsRangeTo,default,8
+5,LastUpdatedDate,default,2020-12-17
+6,FirstAddedDate,date,2017/12/21 00:00:00+00
+6,LastUpdatedDate,date,2020/12/10 00:00:00+00
+6,NetDwellingsRangeFrom,default,196
+6,NetDwellingsRangeTo,default,196
+6,LastUpdatedDate,default,2020-12-17
+7,FirstAddedDate,date,2018/12/20 00:00:00+00
+7,LastUpdatedDate,date,2020/12/10 00:00:00+00
+7,NetDwellingsRangeFrom,default,16
+7,NetDwellingsRangeTo,default,16
+7,LastUpdatedDate,default,2020-12-17
+8,FirstAddedDate,date,2018/12/20 00:00:00+00
+8,LastUpdatedDate,date,2020/12/10 00:00:00+00
+8,NetDwellingsRangeFrom,default,24
+8,NetDwellingsRangeTo,default,24
+8,LastUpdatedDate,default,2020-12-17
+9,FirstAddedDate,date,2018/12/20 00:00:00+00
+9,LastUpdatedDate,date,2020/12/10 00:00:00+00
+9,NetDwellingsRangeFrom,default,9
+9,NetDwellingsRangeTo,default,9
+9,LastUpdatedDate,default,2020-12-17
+10,FirstAddedDate,date,2018/12/20 00:00:00+00
+10,LastUpdatedDate,date,2020/12/10 00:00:00+00
+10,NetDwellingsRangeFrom,default,607
+10,NetDwellingsRangeTo,default,607
+10,LastUpdatedDate,default,2020-12-17
+11,FirstAddedDate,date,2018/12/20 00:00:00+00
+11,LastUpdatedDate,date,2020/12/10 00:00:00+00
+11,NetDwellingsRangeFrom,default,72
+11,NetDwellingsRangeTo,default,72
+11,LastUpdatedDate,default,2020-12-17
+12,FirstAddedDate,date,2018/12/20 00:00:00+00
+12,LastUpdatedDate,date,2020/12/10 00:00:00+00
+12,NetDwellingsRangeFrom,default,93
+12,NetDwellingsRangeTo,default,93
+12,LastUpdatedDate,default,2020-12-17
+13,FirstAddedDate,date,2018/12/20 00:00:00+00
+13,LastUpdatedDate,date,2020/12/10 00:00:00+00
+13,NetDwellingsRangeFrom,default,60
+13,NetDwellingsRangeTo,default,60
+13,LastUpdatedDate,default,2020-12-17
+14,FirstAddedDate,date,2018/12/20 00:00:00+00
+14,LastUpdatedDate,date,2020/12/10 00:00:00+00
+14,NetDwellingsRangeFrom,default,56
+14,NetDwellingsRangeTo,default,56
+14,LastUpdatedDate,default,2020-12-17
+15,FirstAddedDate,date,2018/12/20 00:00:00+00
+15,LastUpdatedDate,date,2020/12/10 00:00:00+00
+15,NetDwellingsRangeFrom,default,15
+15,NetDwellingsRangeTo,default,15
+15,LastUpdatedDate,default,2020-12-17
+16,FirstAddedDate,date,2018/12/20 00:00:00+00
+16,LastUpdatedDate,date,2020/12/10 00:00:00+00
+16,NetDwellingsRangeFrom,default,20
+16,NetDwellingsRangeTo,default,20
+16,LastUpdatedDate,default,2020-12-17
+17,FirstAddedDate,date,2018/12/20 00:00:00+00
+17,LastUpdatedDate,date,2020/12/10 00:00:00+00
+17,NetDwellingsRangeFrom,default,56
+17,NetDwellingsRangeTo,default,56
+17,LastUpdatedDate,default,2020-12-17
+18,FirstAddedDate,date,2018/12/20 00:00:00+00
+18,LastUpdatedDate,date,2020/12/10 00:00:00+00
+18,NetDwellingsRangeFrom,default,33
+18,NetDwellingsRangeTo,default,33
+18,LastUpdatedDate,default,2020-12-17
+19,FirstAddedDate,date,2018/12/20 00:00:00+00
+19,LastUpdatedDate,date,2020/12/10 00:00:00+00
+19,NetDwellingsRangeFrom,default,1700
+19,NetDwellingsRangeTo,default,1700
+19,LastUpdatedDate,default,2020-12-17
+20,FirstAddedDate,date,2018/12/20 00:00:00+00
+20,LastUpdatedDate,date,2020/12/10 00:00:00+00
+20,NetDwellingsRangeFrom,default,108
+20,NetDwellingsRangeTo,default,108
+20,LastUpdatedDate,default,2020-12-17
+21,FirstAddedDate,date,2018/12/20 00:00:00+00
+21,LastUpdatedDate,date,2020/12/10 00:00:00+00
+21,NetDwellingsRangeFrom,default,23
+21,NetDwellingsRangeTo,default,23
+21,LastUpdatedDate,default,2020-12-17
+22,FirstAddedDate,date,2019/12/18 00:00:00+00
+22,LastUpdatedDate,date,2020/12/10 00:00:00+00
+22,NetDwellingsRangeFrom,default,196
+22,NetDwellingsRangeTo,default,196
+22,LastUpdatedDate,default,2020-12-17
+23,FirstAddedDate,date,2017/12/21 00:00:00+00
+23,LastUpdatedDate,date,2020/12/10 00:00:00+00
+23,NetDwellingsRangeFrom,default,179
+23,NetDwellingsRangeTo,default,179
+23,LastUpdatedDate,default,2020-12-17
+24,FirstAddedDate,date,2019/12/18 00:00:00+00
+24,LastUpdatedDate,date,2020/12/10 00:00:00+00
+24,NetDwellingsRangeFrom,default,9
+24,NetDwellingsRangeTo,default,9
+24,LastUpdatedDate,default,2020-12-17
+25,FirstAddedDate,date,2019/12/18 00:00:00+00
+25,LastUpdatedDate,date,2020/12/10 00:00:00+00
+25,NetDwellingsRangeFrom,default,10
+25,NetDwellingsRangeTo,default,10
+25,LastUpdatedDate,default,2020-12-17
+26,FirstAddedDate,date,2017/12/21 00:00:00+00
+26,LastUpdatedDate,date,2020/12/10 00:00:00+00
+26,NetDwellingsRangeFrom,default,425
+26,NetDwellingsRangeTo,default,425
+26,LastUpdatedDate,default,2020-12-17
+27,FirstAddedDate,date,2018/12/20 00:00:00+00
+27,LastUpdatedDate,date,2020/12/10 00:00:00+00
+27,NetDwellingsRangeFrom,default,1100
+27,NetDwellingsRangeTo,default,1100
+27,LastUpdatedDate,default,2020-12-17
+28,FirstAddedDate,date,2020/12/10 00:00:00+00
+28,LastUpdatedDate,date,2020/12/10 00:00:00+00
+28,NetDwellingsRangeFrom,default,7
+28,NetDwellingsRangeTo,default,7
+28,LastUpdatedDate,default,2020-12-17
+29,FirstAddedDate,date,2020/12/10 00:00:00+00
+29,LastUpdatedDate,date,2020/12/10 00:00:00+00
+29,NetDwellingsRangeFrom,default,10
+29,NetDwellingsRangeTo,default,10
+29,LastUpdatedDate,default,2020-12-17
+30,FirstAddedDate,date,2020/12/10 00:00:00+00
+30,LastUpdatedDate,date,2020/12/10 00:00:00+00
+30,NetDwellingsRangeFrom,default,58
+30,NetDwellingsRangeTo,default,58
+30,LastUpdatedDate,default,2020-12-17
+31,FirstAddedDate,date,2020/12/10 00:00:00+00
+31,LastUpdatedDate,date,2020/12/10 00:00:00+00
+31,NetDwellingsRangeFrom,default,7
+31,NetDwellingsRangeTo,default,7
+31,LastUpdatedDate,default,2020-12-17
+32,FirstAddedDate,date,2020/12/10 00:00:00+00
+32,LastUpdatedDate,date,2020/12/10 00:00:00+00
+32,NetDwellingsRangeFrom,default,232
+32,NetDwellingsRangeTo,default,232
+32,LastUpdatedDate,default,2020-12-17
+33,PlanningHistory,uri,httphttps://www.york.gov.uk/SearchPlanningApplicationss://www.york.gov.uk/SearchPlanningApplications
+33,FirstAddedDate,date,2020/12/10 00:00:00+00
+33,LastUpdatedDate,date,2020/12/10 00:00:00+00
+33,NetDwellingsRangeFrom,default,62
+33,NetDwellingsRangeTo,default,62
+33,LastUpdatedDate,default,2020-12-17
+34,PlanningHistory,uri,httphttps://www.york.gov.uk/SearchPlanningApplicationss://www.york.gov.uk/SearchPlanningApplications
+34,FirstAddedDate,date,2020/12/10 00:00:00+00
+34,LastUpdatedDate,date,2020/12/10 00:00:00+00
+34,NetDwellingsRangeFrom,default,5
+34,NetDwellingsRangeTo,default,5
+34,LastUpdatedDate,default,2020-12-17
+35,FirstAddedDate,date,2020/12/10 00:00:00+00
+35,LastUpdatedDate,date,2020/12/10 00:00:00+00
+35,NetDwellingsRangeFrom,default,9
+35,NetDwellingsRangeTo,default,9
+35,LastUpdatedDate,default,2020-12-17
+36,FirstAddedDate,date,2020/12/10 00:00:00+00
+36,LastUpdatedDate,date,2020/12/10 00:00:00+00
+36,NetDwellingsRangeFrom,default,6
+36,NetDwellingsRangeTo,default,6
+36,LastUpdatedDate,default,2020-12-17
+37,FirstAddedDate,date,2020/12/10 00:00:00+00
+37,LastUpdatedDate,date,2020/12/10 00:00:00+00
+37,NetDwellingsRangeFrom,default,5
+37,NetDwellingsRangeTo,default,5
+37,LastUpdatedDate,default,2020-12-17
+38,FirstAddedDate,date,2020/12/10 00:00:00+00
+38,LastUpdatedDate,date,2020/12/10 00:00:00+00
+38,NetDwellingsRangeFrom,default,34
+38,NetDwellingsRangeTo,default,34
+38,LastUpdatedDate,default,2020-12-17
+39,LastUpdatedDate,date,2020/12/10 00:00:00+00
+39,NetDwellingsRangeFrom,default,105
+39,NetDwellingsRangeTo,default,105
+39,LastUpdatedDate,default,2020-12-17

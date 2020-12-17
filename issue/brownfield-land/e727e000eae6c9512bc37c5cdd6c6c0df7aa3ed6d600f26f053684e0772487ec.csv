@@ -1,0 +1,17 @@
+row-number,field,issue-type,value
+1,PermissionDate,date,2016/09/28 00:00:00+00
+1,FirstAddedDate,date,2018/12/18 00:00:00+00
+1,LastUpdatedDate,date,2019/12/18 00:00:00+00
+1,LastUpdatedDate,default,2020-12-17
+2,PermissionDate,date,2019/10/11 00:00:00+00
+2,FirstAddedDate,date,2018/12/18 00:00:00+00
+2,LastUpdatedDate,date,2019/12/18 00:00:00+00
+2,LastUpdatedDate,default,2020-12-17
+3,PermissionDate,date,2019/02/13 00:00:00+00
+3,FirstAddedDate,date,2018/12/18 00:00:00+00
+3,LastUpdatedDate,date,2019/12/18 00:00:00+00
+3,LastUpdatedDate,default,2020-12-17
+4,PermissionDate,date,2016/07/22 00:00:00+00
+4,FirstAddedDate,date,2018/12/18 00:00:00+00
+4,LastUpdatedDate,date,2019/12/18 00:00:00+00
+4,LastUpdatedDate,default,2020-12-17

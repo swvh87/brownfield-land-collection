@@ -76,5 +76,5 @@ makerules::
 	#curl -qsL '$(SOURCE_URL)/makerules/main/pipeline.mk' > makerules/pipeline.mk
 
 commit-dataset::
-	git add transformed issue dataset
+	git add transformed issue dataset harmonised
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Data $(shell date +%F)"; git push origin $(BRANCH))

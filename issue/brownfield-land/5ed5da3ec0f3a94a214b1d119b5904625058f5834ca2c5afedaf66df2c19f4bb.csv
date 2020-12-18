@@ -1,4 +1,7 @@
 row-number,field,issue-type,value
+1,OrganisationURI,opendatacommunities-uri,
+1,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/rochdale
+1,LastUpdatedDate,default,2018-05-22
 2,SiteplanURL,uri,Available within individual site Pdf
 2,NetDwellingsRangeFrom,default,6
 2,LastUpdatedDate,default,2017-11-29

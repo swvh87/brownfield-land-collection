@@ -66,6 +66,7 @@ row-number,field,issue-type,value
 31,NetDwellingsRangeTo,default,20
 32,NetDwellingsRangeFrom,default,14
 32,NetDwellingsRangeTo,default,14
+32,LastUpdatedDate,default,2020-01-21
 33,NetDwellingsRangeFrom,default,31
 33,NetDwellingsRangeTo,default,31
 34,NetDwellingsRangeFrom,default,24
@@ -165,6 +166,7 @@ row-number,field,issue-type,value
 80,NetDwellingsRangeTo,default,13
 81,NetDwellingsRangeFrom,default,20
 81,NetDwellingsRangeTo,default,20
+81,LastUpdatedDate,default,2020-01-21
 82,NetDwellingsRangeFrom,default,13
 82,NetDwellingsRangeTo,default,13
 83,NetDwellingsRangeFrom,default,12
@@ -325,6 +327,7 @@ row-number,field,issue-type,value
 156,FirstAddedDate,date,17/12/25018
 156,NetDwellingsRangeFrom,default,30
 156,NetDwellingsRangeTo,default,30
+156,LastUpdatedDate,default,2020-01-21
 157,NetDwellingsRangeFrom,default,39
 157,NetDwellingsRangeTo,default,39
 157,LastUpdatedDate,default,2018-12-17
@@ -351,6 +354,7 @@ row-number,field,issue-type,value
 164,LastUpdatedDate,default,2020-01-15
 165,NetDwellingsRangeFrom,default,14
 165,NetDwellingsRangeTo,default,14
+165,LastUpdatedDate,default,2020-01-21
 166,NetDwellingsRangeFrom,default,5
 166,NetDwellingsRangeTo,default,5
 166,LastUpdatedDate,default,2018-12-17

@@ -10,8 +10,10 @@ row-number,field,issue-type,value
 5,NetDwellingsRangeTo,integer,No defined maximum
 5,NetDwellingsRangeTo,default,21
 6,NetDwellingsRangeTo,integer,No defined maximum
+7,LastUpdatedDate,default,2020-03-05
 8,NetDwellingsRangeTo,integer,No defined maximum
 8,NetDwellingsRangeTo,default,99
+9,LastUpdatedDate,default,2020-03-05
 10,NetDwellingsRangeTo,integer,No defined maximum
 10,NetDwellingsRangeTo,default,14
 11,NetDwellingsRangeTo,integer,No defined maximum
@@ -24,10 +26,12 @@ row-number,field,issue-type,value
 14,NetDwellingsRangeTo,default,72
 15,NetDwellingsRangeTo,integer,No defined maximum
 15,NetDwellingsRangeTo,default,62
+16,LastUpdatedDate,default,2020-03-05
 17,NetDwellingsRangeTo,integer,No defined maximum
 17,NetDwellingsRangeTo,default,90
 18,NetDwellingsRangeTo,integer,No defined maximum
 18,NetDwellingsRangeTo,default,600
+19,LastUpdatedDate,default,2020-03-05
 20,NetDwellingsRangeTo,integer,No defined maximum
 20,NetDwellingsRangeTo,default,84
 21,NetDwellingsRangeTo,integer,No defined maximum
@@ -42,6 +46,7 @@ row-number,field,issue-type,value
 25,NetDwellingsRangeTo,default,42
 26,NetDwellingsRangeTo,integer,No defined maximum
 26,NetDwellingsRangeTo,default,35
+27,LastUpdatedDate,default,2020-03-05
 28,NetDwellingsRangeTo,integer,No defined maximum
 28,NetDwellingsRangeTo,default,6
 29,NetDwellingsRangeTo,integer,No defined maximum

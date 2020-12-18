@@ -67,6 +67,7 @@ row-number,field,issue-type,value
 33,NetDwellingsRangeTo,default,9
 34,NetDwellingsRangeFrom,default,14
 34,NetDwellingsRangeTo,default,14
+34,LastUpdatedDate,default,2018-05-22
 35,NetDwellingsRangeFrom,default,9
 35,NetDwellingsRangeTo,default,9
 36,NetDwellingsRangeFrom,default,35
@@ -149,8 +150,10 @@ row-number,field,issue-type,value
 74,NetDwellingsRangeTo,default,7
 75,NetDwellingsRangeFrom,default,168
 75,NetDwellingsRangeTo,default,168
+76,OrganisationURI,opendatacommunities-uri,
 76,NetDwellingsRangeFrom,default,26
 76,NetDwellingsRangeTo,default,26
+76,OrganisationURI,default,http://opendatacommunities.org/id/metropolitan-district-council/sandwell
 77,NetDwellingsRangeFrom,default,108
 77,NetDwellingsRangeTo,default,108
 78,NetDwellingsRangeFrom,default,113
@@ -247,6 +250,7 @@ row-number,field,issue-type,value
 123,NetDwellingsRangeTo,default,41
 124,NetDwellingsRangeFrom,default,67
 124,NetDwellingsRangeTo,default,67
+124,LastUpdatedDate,default,2018-05-22
 125,NetDwellingsRangeFrom,default,77
 125,NetDwellingsRangeTo,default,77
 126,NetDwellingsRangeFrom,default,76
@@ -257,6 +261,7 @@ row-number,field,issue-type,value
 128,NetDwellingsRangeTo,default,77
 129,NetDwellingsRangeFrom,default,20
 129,NetDwellingsRangeTo,default,20
+129,LastUpdatedDate,default,2018-05-22
 130,NetDwellingsRangeFrom,default,29
 130,NetDwellingsRangeTo,default,29
 131,NetDwellingsRangeFrom,default,13

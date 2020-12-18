@@ -25,9 +25,14 @@ row-number,field,issue-type,value
 8,LastUpdatedDate,default,2017-12-31
 9,NetDwellingsRangeFrom,default,20
 9,NetDwellingsRangeTo,default,20
+9,LastUpdatedDate,default,2018-05-22
 10,NetDwellingsRangeFrom,default,50
 10,NetDwellingsRangeTo,default,50
+10,LastUpdatedDate,default,2018-05-22
 11,MinNetDwellings,integer,06-Dec
+11,LastUpdatedDate,default,2018-05-22
 12,NetDwellingsRangeFrom,default,35
 12,NetDwellingsRangeTo,default,35
+12,LastUpdatedDate,default,2018-05-22
 13,MinNetDwellings,integer,510-595
+13,LastUpdatedDate,default,2018-05-22

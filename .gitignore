@@ -13,9 +13,6 @@ tmp/
 # ignore local packages
 *.egg-info/
 
-# ignore the collection index, for now
-collection/log.csv
-
 # ignore intermediate files
 var/
 

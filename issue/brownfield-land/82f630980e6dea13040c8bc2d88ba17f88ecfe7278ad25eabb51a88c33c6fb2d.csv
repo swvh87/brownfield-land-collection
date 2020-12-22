@@ -9,7 +9,9 @@ row-number,field,issue-type,value
 8,LastUpdatedDate,default,2017-12-18
 9,LastUpdatedDate,default,2017-12-18
 10,LastUpdatedDate,default,2017-12-18
+11,Hectares,decimal,<0.1
 11,LastUpdatedDate,default,2017-12-18
+12,Hectares,decimal,<0.1
 12,LastUpdatedDate,default,2017-12-18
 13,LastUpdatedDate,default,2017-12-18
 14,LastUpdatedDate,default,2017-12-18

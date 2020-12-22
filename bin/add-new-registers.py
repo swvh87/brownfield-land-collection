@@ -13,12 +13,21 @@ key="1e1UUs34KITLANgJGGHNV1Hh_UzkKU_7ROApzOdzhGAU"
 CSV_URL='https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet={%s}' % (key, sheet)
 
 
-def entry_date(entry, name):
-    value = entry.get(name, "")
+def entry_date(entry, field):
+    value = entry.get(field, "")
     if value:
         # wrong for a timestamp ..
         value = datetime.strptime(value, "%Y-%m-%d").date()
     return value
+
+
+def active_endpoint_exists(records, endpoint_hash):
+    return endpoint_hash in records and any(not x["end-date"] for x in records[endpoint_hash])
+
+
+def active_source_exists(records, endpoint_hash, org):
+    return endpoint_hash in records \
+           and any(x["organisation"] == org and not x["end-date"] for x in records[endpoint_hash])
 
 
 session = requests.Session()
@@ -33,29 +42,32 @@ for entry in csv.DictReader(content.splitlines()):
     if entry["collection"] != sheet:
         continue
 
-    entry["endpoint"] = hash_value(entry["endpoint-url"])
+    endpoint_hash = hash_value(entry["endpoint-url"])
+    entry["endpoint"] = endpoint_hash
 
-    collection.endpoint.add_entry({
-        "endpoint": entry["endpoint"],
-        "endpoint-url": entry["endpoint-url"],
-        "plugin": entry.get("plugin", ""),
-        "parameters": entry.get("parameters", ""),
-        "entry-date": entry_date(entry, "entry-date"),
-        "start-date": entry_date(entry, "start-date"),
-        "end-date": entry_date(entry, "end-date"),
-    })
+    if not active_endpoint_exists(collection.endpoint.records, endpoint_hash):
+        collection.endpoint.add_entry({
+            "endpoint": entry["endpoint"],
+            "endpoint-url": entry["endpoint-url"],
+            "plugin": entry.get("plugin", ""),
+            "parameters": entry.get("parameters", ""),
+            "entry-date": entry_date(entry, "entry-date"),
+            "start-date": entry_date(entry, "start-date"),
+            "end-date": entry_date(entry, "end-date"),
+        })
 
-    collection.source.add_entry({
-        "endpoint": entry["endpoint"],
-        "collection": entry["collection"],
-        "pipelines": entry.get("pipelines", entry["collection"]),
-        "organisation": entry.get("organisation", ""),
-        "documentation-url": entry.get("documentation-url", ""),
-        "licence": entry.get("licence", ""),
-        "attribution": entry.get("attribution", ""),
-        "entry-date": entry_date(entry, "entry-date"),
-        "start-date": entry_date(entry, "start-date"),
-        "end-date": entry_date(entry, "end-date"),
-    })
+    if not active_source_exists(collection.source.records, endpoint_hash, entry["organisation"]):
+        collection.source.add_entry({
+            "endpoint": entry["endpoint"],
+            "collection": entry["collection"],
+            "pipelines": entry.get("pipelines", entry["collection"]),
+            "organisation": entry.get("organisation", ""),
+            "documentation-url": entry.get("documentation-url", ""),
+            "licence": entry.get("licence", ""),
+            "attribution": entry.get("attribution", ""),
+            "entry-date": entry_date(entry, "entry-date"),
+            "start-date": entry_date(entry, "start-date"),
+            "end-date": entry_date(entry, "end-date"),
+        })
 
 collection.save_csv()

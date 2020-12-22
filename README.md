@@ -17,13 +17,15 @@ The national dataset is in a format consistent with other Digital Land datasets 
 * [collection/log/](collection/log/) — individual log JSON files, created by the colletion process
 * [collection/resource.csv](collection/resource.csv) — an index of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
 
-# Updating the collection
+# Rebuilding the collection
 
 We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies:
 
-    $ make update
+    $ make makerules
     $ make init
     $ make collect
+
+# Building the national dataset
 
 Collected files can be converted into a national dataset:
 

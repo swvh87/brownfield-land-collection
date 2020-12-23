@@ -69,6 +69,7 @@ row-number,field,issue-type,value
 34,NetDwellingsRangeTo,default,12
 35,NetDwellingsRangeFrom,default,22
 35,NetDwellingsRangeTo,default,22
+36,Hectares,decimal,"0,09"
 36,NetDwellingsRangeFrom,default,10
 36,NetDwellingsRangeTo,default,10
 37,NetDwellingsRangeFrom,default,44

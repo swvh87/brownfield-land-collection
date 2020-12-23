@@ -32,6 +32,8 @@ content = download.content.decode('utf-8')
 
 collection = Collection()
 collection.load()
+new_endpoints = 0
+new_sources = 0
 
 for entry in csv.DictReader(content.splitlines()):
 
@@ -65,8 +67,11 @@ for entry in csv.DictReader(content.splitlines()):
 
     if not does_entry_exist(collection.endpoint, endpoint_entry):
         collection.endpoint.add_entry(endpoint_entry)
+        new_endpoints += 1
 
     if not does_entry_exist(collection.source, source_entry):
         collection.source.add_entry(source_entry)
+        new_sources += 1
 
 collection.save_csv()
+print("{} new endpoints added and {} new sources added".format(new_endpoints, new_sources))

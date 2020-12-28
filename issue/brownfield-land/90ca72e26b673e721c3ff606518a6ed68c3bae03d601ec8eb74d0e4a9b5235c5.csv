@@ -1,0 +1,96 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeTo,default,415
+2,NetDwellingsRangeTo,default,16
+3,LastUpdatedDate,date,26/11/18 Pre app received SDNP/17/02506/PRE
+3,NetDwellingsRangeTo,default,14
+3,LastUpdatedDate,default,2017-12-31
+4,LastUpdatedDate,date,26/11/18 - Development Brief Consultation  SDNP/DBC/SD81
+4,NetDwellingsRangeTo,default,65
+4,LastUpdatedDate,default,2017-12-31
+5,LastUpdatedDate,date,26/11/18 -  Development Brief Consultation  SDNP/DBC/SD82
+5,NetDwellingsRangeTo,default,50
+5,LastUpdatedDate,default,2017-12-31
+6,LastUpdatedDate,date,26/11/18 - no update
+6,NetDwellingsRangeTo,default,8
+6,LastUpdatedDate,default,2017-12-31
+7,LastUpdatedDate,date,26/11/2018 -Permission given
+7,NetDwellingsRangeTo,default,20
+7,LastUpdatedDate,default,2017-12-31
+8,NetDwellingsRangeTo,default,16
+9,LastUpdatedDate,date,26/11/2018      SDNP/16/01618/FUL
+9,NetDwellingsRangeTo,default,9
+9,LastUpdatedDate,default,2017-12-31
+10,LastUpdatedDate,date,26/11/18  - pre app SDNP/17/01826/PRE
+10,NetDwellingsRangeTo,default,200
+10,LastUpdatedDate,default,2017-12-31
+11,NetDwellingsRangeTo,default,10
+12,NetDwellingsRangeTo,default,10
+13,NetDwellingsRangeTo,default,52
+14,NetDwellingsRangeTo,default,6
+15,NetDwellingsRangeTo,default,11
+16,NetDwellingsRangeTo,default,6
+17,NetDwellingsRangeTo,default,8
+18,LastUpdatedDate,date,26/11/18  SDNP/16/04343/PA3O
+18,NetDwellingsRangeTo,default,24
+18,LastUpdatedDate,default,2017-12-31
+19,NetDwellingsRangeTo,default,12
+20,NetDwellingsRangeTo,default,26
+21,NetDwellingsRangeTo,default,20
+22,NetDwellingsRangeTo,default,42
+23,NetDwellingsRangeTo,default,10
+24,NetDwellingsRangeTo,default,40
+25,NetDwellingsRangeTo,default,13
+26,NetDwellingsRangeTo,default,30
+27,NetDwellingsRangeTo,default,9
+28,LastUpdatedDate,date,26/11/18   Pre app SDNP/18/05751/PRE
+28,NetDwellingsRangeTo,default,27
+28,LastUpdatedDate,default,2017-12-31
+29,LastUpdatedDate,date,26/11/2018  SDNP/17/02306/PA3O
+29,NetDwellingsRangeTo,default,24
+29,LastUpdatedDate,default,2017-12-31
+30,LastUpdatedDate,date,26/11/18 not started
+30,NetDwellingsRangeTo,default,10
+30,LastUpdatedDate,default,2017-12-31
+31,LastUpdatedDate,date,26/11/18 not started
+31,NetDwellingsRangeTo,default,7
+31,LastUpdatedDate,default,2017-12-31
+32,NetDwellingsRangeTo,default,10
+33,NetDwellingsRangeTo,default,12
+34,NetDwellingsRangeTo,default,10
+35,LastUpdatedDate,date,26/11/18 pre app 2016
+35,NetDwellingsRangeTo,default,5
+35,LastUpdatedDate,default,2017-12-31
+36,NetDwellingsRangeTo,default,8
+37,NetDwellingsRangeTo,default,12
+38,NetDwellingsRangeTo,default,7
+39,SiteplanURL,uri,file:///F:/downloads/123_QR_170502_Reg-14_Sites-Not-Selected.pdf
+39,NetDwellingsRangeTo,default,10
+40,NetDwellingsRangeTo,default,16
+41,NetDwellingsRangeTo,default,5
+42,NetDwellingsRangeTo,default,11
+43,NetDwellingsRangeTo,default,20
+44,NetDwellingsRangeTo,default,12
+45,Hectares,decimal,The existing building covers an area of 135m2. The total site area is 458m2.
+45,LastUpdatedDate,date,SDNP/17/01684/FUL
+45,NetDwellingsRangeTo,default,5
+45,LastUpdatedDate,default,2018-11-20
+46,NetDwellingsRangeTo,default,9
+46,LastUpdatedDate,default,2019-12-09
+47,NetDwellingsRangeTo,default,9
+47,LastUpdatedDate,default,2019-12-09
+48,NetDwellingsRangeTo,default,16
+48,LastUpdatedDate,default,2019-12-09
+49,NetDwellingsRangeTo,default,9
+49,LastUpdatedDate,default,2019-12-09
+50,NetDwellingsRangeTo,default,5
+50,LastUpdatedDate,default,2019-12-09
+51,NetDwellingsRangeTo,default,10
+51,LastUpdatedDate,default,2019-12-09
+52,NetDwellingsRangeTo,default,12
+52,LastUpdatedDate,default,2020-12-07
+53,NetDwellingsRangeTo,default,6
+53,LastUpdatedDate,default,2020-12-07
+54,NetDwellingsRangeTo,default,29
+54,LastUpdatedDate,default,2020-12-07
+55,NetDwellingsRangeTo,default,5
+55,LastUpdatedDate,default,2020-12-07

@@ -95,6 +95,7 @@ brownfield-land,,PermissionType,other - s73 mma,other
 brownfield-land,,PermissionType,other full planning permission,other
 brownfield-land,,PermissionType,otther,other
 brownfield-land,,PermissionType,ouline planning permission,outline planning permission
+brownfield-land,,PermissionType,out,outline planning permission
 brownfield-land,,PermissionType,outline,outline planning permission
 brownfield-land,,PermissionType,outline permission,outline planning permission
 brownfield-land,,PermissionType,outline planning,outline planning permission
@@ -120,6 +121,7 @@ brownfield-land,,PermissionType,prior approval - approved change of use,other
 brownfield-land,,PermissionType,prior approval - class o,other
 brownfield-land,,PermissionType,prior notification,other
 brownfield-land,,PermissionType,renewal - full planning permission,other
+brownfield-land,,PermissionType,rm,reserved matters approval
 brownfield-land,,PermissionType,reserve matters,reserved matters approval
 brownfield-land,,PermissionType,reserved matters,reserved matters approval
 brownfield-land,,PermissionType,reserved matters and full planning,other

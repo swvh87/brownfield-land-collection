@@ -1,0 +1,55 @@
+row-number,field,issue-type,value
+1,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+1,"GeoX,GeoY",Failed to convert point to decimal %s,"['578,568.00', '286,370.00']"
+2,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+2,"GeoX,GeoY",Failed to convert point to decimal %s,"['578,871.00', '286,573.00']"
+3,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+3,"GeoX,GeoY",Failed to convert point to decimal %s,"['571,506.00', '283,664.00']"
+4,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+4,"GeoX,GeoY",Failed to convert point to decimal %s,"['571,688.00', '274,950.00']"
+5,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+5,"GeoX,GeoY",Failed to convert point to decimal %s,"['570,699.00', '274,509.00']"
+6,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+6,"GeoX,GeoY",Failed to convert point to decimal %s,"['563,811.00', '263,057.00']"
+7,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+7,"GeoX,GeoY",Failed to convert point to decimal %s,"['563,964.00', '264,804.00']"
+8,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+8,"GeoX,GeoY",Failed to convert point to decimal %s,"['569,376.00', '270,131.00']"
+9,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+9,"GeoX,GeoY",Failed to convert point to decimal %s,"['586,465.00', '263,202.00']"
+10,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+10,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,733.00', '264,460.00']"
+11,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+11,"GeoX,GeoY",Failed to convert point to decimal %s,"['584,638.00', '263,851.00']"
+12,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+12,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,844.00', '264,675.00']"
+13,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+13,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,081.00', '264,406.00']"
+14,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+14,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,236.00', '265,067.00']"
+15,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+15,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,022.00', '264,886.00']"
+16,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+16,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,754.00', '263,888.00']"
+17,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+17,"GeoX,GeoY",Failed to convert point to decimal %s,"['567,783.00', '244,938.00']"
+18,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+18,"GeoX,GeoY",Failed to convert point to decimal %s,"['566,847.00', '246,006.00']"
+19,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+19,"GeoX,GeoY",Failed to convert point to decimal %s,"['567,926.00', '245,342.00']"
+20,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+20,"GeoX,GeoY",Failed to convert point to decimal %s,"['584,901.90', '263,896.29']"
+21,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+21,"GeoX,GeoY",Failed to convert point to decimal %s,"['584,868.86', '265,739.97']"
+22,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+22,"GeoX,GeoY",Failed to convert point to decimal %s,"['585,023.00', '265,260.00']"
+23,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+23,"GeoX,GeoY",Failed to convert point to decimal %s,"['566,812.69', '245,502.29']"
+24,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+24,"GeoX,GeoY",Failed to convert point to decimal %s,"['564,831.83', '263,377.86']"
+25,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+25,"GeoX,GeoY",Failed to convert point to decimal %s,"['563,488.48', '263,451.68']"
+26,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+26,"GeoX,GeoY",Failed to convert point to decimal %s,"['567,209.25', '245,590.87']"
+27,OrganisationURI,opendatacommunities-uri,https://opendatacommunities.org/atlas/resource?uri=http%3a%2f%2fopendatacommunities.org%2fid%2fgeography%2fadministration%2fnmd%2fe07000245&inactive=false
+27,"GeoX,GeoY",Failed to convert point to decimal %s,"['567,572.99', '245,751.57']"

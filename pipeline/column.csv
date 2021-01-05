@@ -53,6 +53,8 @@ brownfield-land,,Eastings,GeoX
 brownfield-land,,Eastings (Geo X),GeoX
 brownfield-land,,OSEasting,GeoX
 brownfield-land,,OSGB36Easting,GeoX
+brownfield-land,,Locations Coordinates East West,GeoX
+brownfield-land,,Location Coordinates North South,GeoY
 brownfield-land,,BNG_Northing,GeoY
 brownfield-land,,GeoY (Latitude or north grid),GeoY
 brownfield-land,,GeoY [North],GeoY

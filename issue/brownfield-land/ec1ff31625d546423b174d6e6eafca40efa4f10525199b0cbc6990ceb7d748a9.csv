@@ -65,7 +65,7 @@ row-number,field,issue-type,value
 22,NetDwellingsRangeFrom,default,13
 22,NetDwellingsRangeTo,default,13
 22,LastUpdatedDate,default,2019-11-30
-22,"GeoX,GeoY",OSGB outside England,"41255,282893"
+22,"GeoX,GeoY",OSGB outside England,"41255.0,282893.0"
 23,NetDwellingsRangeFrom,default,5
 23,NetDwellingsRangeTo,default,5
 23,LastUpdatedDate,default,2019-11-30
@@ -372,7 +372,7 @@ row-number,field,issue-type,value
 124,NetDwellingsRangeFrom,default,838
 124,NetDwellingsRangeTo,default,838
 124,LastUpdatedDate,default,2019-11-30
-124,"GeoX,GeoY",out of range,"365,820"
+124,"GeoX,GeoY",out of range,"365.0,820.0"
 125,NetDwellingsRangeFrom,default,645
 125,NetDwellingsRangeTo,default,645
 125,LastUpdatedDate,default,2019-11-30

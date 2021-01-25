@@ -371,7 +371,7 @@ row-number,field,issue-type,value
 124,NetDwellingsRangeFrom,default,838
 124,NetDwellingsRangeTo,default,838
 124,LastUpdatedDate,default,2018-07-05
-124,"GeoX,GeoY",out of range,"820,365"
+124,"GeoX,GeoY",out of range,"820.0,365.0"
 125,NetDwellingsRangeFrom,default,645
 125,NetDwellingsRangeTo,default,645
 125,LastUpdatedDate,default,2018-07-05

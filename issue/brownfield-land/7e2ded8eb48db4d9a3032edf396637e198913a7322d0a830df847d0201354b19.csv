@@ -1,0 +1,307 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,121
+1,NetDwellingsRangeTo,default,121
+1,"GeoX,GeoY",out of range,"-0.130193,183664.37"
+2,NetDwellingsRangeFrom,default,10
+2,NetDwellingsRangeTo,default,10
+2,"GeoX,GeoY",out of range,"-0.146155,184848.5"
+3,NetDwellingsRangeFrom,default,6
+3,NetDwellingsRangeTo,default,6
+3,"GeoX,GeoY",out of range,"-0.127085,181211.36"
+4,NetDwellingsRangeFrom,default,7
+4,NetDwellingsRangeTo,default,7
+4,"GeoX,GeoY",out of range,"-0.137475,184965.59"
+5,NetDwellingsRangeFrom,default,38
+5,NetDwellingsRangeTo,default,38
+5,"GeoX,GeoY",out of range,"-0.152184,184507.57"
+6,NetDwellingsRangeFrom,default,184
+6,NetDwellingsRangeTo,default,184
+6,"GeoX,GeoY",out of range,"-0.174116,184300.89"
+7,NetDwellingsRangeFrom,default,8
+7,NetDwellingsRangeTo,default,8
+7,"GeoX,GeoY",out of range,"-0.176317,185144.43"
+8,NetDwellingsRangeFrom,default,6
+8,NetDwellingsRangeTo,default,6
+8,"GeoX,GeoY",out of range,"-0.125654,181384.5"
+9,NetDwellingsRangeFrom,default,5
+9,NetDwellingsRangeTo,default,5
+9,"GeoX,GeoY",out of range,"-0.122366,182130.78"
+10,NetDwellingsRangeFrom,default,5
+10,NetDwellingsRangeTo,default,5
+10,"GeoX,GeoY",out of range,"-0.133417,183458.63"
+11,NetDwellingsRangeFrom,default,9
+11,NetDwellingsRangeTo,default,9
+11,"GeoX,GeoY",out of range,"-0.160709,184751.48"
+12,NetDwellingsRangeFrom,default,9
+12,NetDwellingsRangeTo,default,9
+12,"GeoX,GeoY",out of range,"-0.142163,184683.97"
+13,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+13,NetDwellingsRangeFrom,default,315
+13,NetDwellingsRangeTo,default,315
+13,"GeoX,GeoY",out of range,"-0.184201,184780.99"
+14,PlanningHistory,uri,Site Allocation in Euston Area Plan http://www.eustonareaplan.info/
+14,NetDwellingsRangeFrom,default,1400
+14,NetDwellingsRangeTo,default,1400
+14,"GeoX,GeoY",out of range,"-0.141617,183319.03"
+15,NetDwellingsRangeFrom,default,16
+15,NetDwellingsRangeTo,default,16
+15,"GeoX,GeoY",out of range,"-0.142493,182170.14"
+16,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+16,NetDwellingsRangeFrom,default,35
+16,NetDwellingsRangeTo,default,35
+16,"GeoX,GeoY",out of range,"-0.120194,181664.68"
+17,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+17,NetDwellingsRangeFrom,default,40
+17,NetDwellingsRangeTo,default,40
+17,"GeoX,GeoY",out of range,"-0.136866,183920.86"
+18,NetDwellingsRangeFrom,default,15
+18,NetDwellingsRangeTo,default,15
+18,"GeoX,GeoY",out of range,"-0.171429,184672.35"
+19,NetDwellingsRangeFrom,default,6
+19,NetDwellingsRangeTo,default,6
+19,"GeoX,GeoY",out of range,"-0.140909,185514.92"
+20,NetDwellingsRangeFrom,default,6
+20,NetDwellingsRangeTo,default,6
+20,"GeoX,GeoY",out of range,"-0.138421,185299.61"
+21,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+21,NetDwellingsRangeFrom,default,58
+21,NetDwellingsRangeTo,default,58
+21,"GeoX,GeoY",out of range,"-0.115099,182496.73"
+22,NetDwellingsRangeFrom,default,6
+22,NetDwellingsRangeTo,default,6
+22,"GeoX,GeoY",out of range,"-0.175726,184334.28"
+23,NetDwellingsRangeFrom,default,19
+23,NetDwellingsRangeTo,default,19
+23,"GeoX,GeoY",out of range,"-0.152608,184428.33"
+24,NetDwellingsRangeFrom,default,5
+24,NetDwellingsRangeTo,default,5
+24,"GeoX,GeoY",out of range,"-0.138447,182471.24"
+25,NetDwellingsRangeFrom,default,10
+25,NetDwellingsRangeTo,default,10
+25,"GeoX,GeoY",out of range,"-0.150047,184372.13"
+26,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+26,NetDwellingsRangeFrom,default,55
+26,NetDwellingsRangeTo,default,55
+26,"GeoX,GeoY",out of range,"-0.141382,182177.49"
+27,NetDwellingsRangeFrom,default,50
+27,NetDwellingsRangeTo,default,50
+27,"GeoX,GeoY",out of range,"-0.13833,181820.4"
+28,NetDwellingsRangeFrom,default,4
+28,NetDwellingsRangeTo,default,4
+28,"GeoX,GeoY",out of range,"-0.11905,181493.55"
+29,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+29,NetDwellingsRangeFrom,default,175
+29,NetDwellingsRangeTo,default,175
+29,"GeoX,GeoY",out of range,"-0.134759,183836.05"
+30,NetDwellingsRangeFrom,default,10
+30,NetDwellingsRangeTo,default,10
+30,"GeoX,GeoY",out of range,"-0.153156,184382.79"
+31,NetDwellingsRangeFrom,default,12
+31,NetDwellingsRangeTo,default,12
+31,"GeoX,GeoY",out of range,"-0.137272,181762.03"
+32,NetDwellingsRangeFrom,default,164
+32,NetDwellingsRangeTo,default,164
+32,"GeoX,GeoY",out of range,"-0.190542,184865.75"
+33,NetDwellingsRangeFrom,default,5
+33,NetDwellingsRangeTo,default,5
+33,"GeoX,GeoY",out of range,"-0.149984,185173.48"
+34,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+34,NetDwellingsRangeFrom,default,26
+34,NetDwellingsRangeTo,default,26
+34,"GeoX,GeoY",out of range,"-0.141745,182177.49"
+35,NetDwellingsRangeFrom,default,22
+35,NetDwellingsRangeTo,default,22
+35,"GeoX,GeoY",out of range,"-0.115248,181648.42"
+36,NetDwellingsRangeFrom,default,6
+36,NetDwellingsRangeTo,default,6
+36,"GeoX,GeoY",out of range,"-0.1364,181738.98"
+37,NetDwellingsRangeFrom,default,7
+37,NetDwellingsRangeTo,default,7
+37,"GeoX,GeoY",out of range,"-0.138453,185154.91"
+38,NetDwellingsRangeFrom,default,6
+38,NetDwellingsRangeTo,default,6
+38,"GeoX,GeoY",out of range,"-0.148889,185744.41"
+39,NetDwellingsRangeFrom,default,7
+39,NetDwellingsRangeTo,default,7
+39,"GeoX,GeoY",out of range,"-0.114278,182034.34"
+40,NetDwellingsRangeFrom,default,5
+40,NetDwellingsRangeTo,default,5
+40,"GeoX,GeoY",out of range,"-0.137249,184403.44"
+41,NetDwellingsRangeFrom,default,6
+41,NetDwellingsRangeTo,default,6
+41,"GeoX,GeoY",out of range,"-0.155933,184236.49"
+42,NetDwellingsRangeFrom,default,21
+42,NetDwellingsRangeTo,default,21
+42,"GeoX,GeoY",out of range,"-0.144128,186263.03"
+43,NetDwellingsRangeFrom,default,9
+43,NetDwellingsRangeTo,default,9
+43,"GeoX,GeoY",out of range,"-0.146466,184015.73"
+44,NetDwellingsRangeFrom,default,53
+44,NetDwellingsRangeTo,default,53
+44,"GeoX,GeoY",out of range,"-0.152404,183996.28"
+45,PlanningHistory,uri,Site Allocation in Euston Area Plan http://www.eustonareaplan.info/
+45,NetDwellingsRangeFrom,default,1000
+45,NetDwellingsRangeTo,default,1000
+45,"GeoX,GeoY",out of range,"-0.133963,182795.06"
+46,NetDwellingsRangeFrom,default,93
+46,NetDwellingsRangeTo,default,93
+46,"GeoX,GeoY",out of range,"-0.120197,181890.05"
+47,NetDwellingsRangeFrom,default,5
+47,NetDwellingsRangeTo,default,5
+47,"GeoX,GeoY",out of range,"-0.142157,184852.16"
+48,NetDwellingsRangeFrom,default,12
+48,NetDwellingsRangeTo,default,12
+48,"GeoX,GeoY",out of range,"-0.137375,181761.54"
+49,NetDwellingsRangeFrom,default,15
+49,NetDwellingsRangeTo,default,15
+49,"GeoX,GeoY",out of range,"-0.150257,185519.98"
+50,NetDwellingsRangeFrom,default,8
+50,NetDwellingsRangeTo,default,8
+50,"GeoX,GeoY",out of range,"-0.106575,181923.32"
+51,NetDwellingsRangeFrom,default,63
+51,NetDwellingsRangeTo,default,63
+51,"GeoX,GeoY",out of range,"-0.151172,184301.35"
+52,NetDwellingsRangeFrom,default,6
+52,NetDwellingsRangeTo,default,6
+52,"GeoX,GeoY",out of range,"-0.150047,184379.42"
+53,NetDwellingsRangeFrom,default,53
+53,NetDwellingsRangeTo,default,53
+53,"GeoX,GeoY",out of range,"-0.139761,184085.28"
+54,NetDwellingsRangeFrom,default,26
+54,NetDwellingsRangeTo,default,26
+54,"GeoX,GeoY",out of range,"-0.14085,183771.32"
+55,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+55,NetDwellingsRangeFrom,default,30
+55,NetDwellingsRangeTo,default,30
+55,"GeoX,GeoY",out of range,"-0.152812,184341.15"
+56,NetDwellingsRangeFrom,default,7
+56,NetDwellingsRangeTo,default,7
+56,"GeoX,GeoY",out of range,"-0.109342,181989.69"
+57,NetDwellingsRangeFrom,default,22
+57,NetDwellingsRangeTo,default,22
+57,"GeoX,GeoY",out of range,"-0.120156,181611.35"
+58,NetDwellingsRangeFrom,default,5
+58,NetDwellingsRangeTo,default,5
+58,"GeoX,GeoY",out of range,"-0.191921,183555.25"
+59,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+59,NetDwellingsRangeFrom,default,60
+59,NetDwellingsRangeTo,default,60
+59,"GeoX,GeoY",out of range,"-0.142407,182177.49"
+60,NetDwellingsRangeFrom,default,5
+60,NetDwellingsRangeTo,default,5
+60,"GeoX,GeoY",out of range,"-0.115537,181680.62"
+61,NetDwellingsRangeFrom,default,22
+61,NetDwellingsRangeTo,default,22
+61,"GeoX,GeoY",out of range,"-0.127685,181045.59"
+62,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+62,NetDwellingsRangeFrom,default,35
+62,NetDwellingsRangeTo,default,35
+62,"GeoX,GeoY",out of range,"-0.142244,185059.34"
+63,NetDwellingsRangeFrom,default,13
+63,NetDwellingsRangeTo,default,13
+63,"GeoX,GeoY",out of range,"-0.141986,185288.85"
+64,NetDwellingsRangeFrom,default,6
+64,NetDwellingsRangeTo,default,6
+64,"GeoX,GeoY",out of range,"-0.129361,181410.16"
+65,NetDwellingsRangeFrom,default,345
+65,NetDwellingsRangeTo,default,345
+65,"GeoX,GeoY",out of range,"-0.113561,182243.22"
+66,NetDwellingsRangeFrom,default,22
+66,NetDwellingsRangeTo,default,22
+66,"GeoX,GeoY",out of range,"-0.182914,185031.31"
+67,NetDwellingsRangeFrom,default,106
+67,NetDwellingsRangeTo,default,106
+67,"GeoX,GeoY",out of range,"-0.197321,184807.23"
+68,NetDwellingsRangeFrom,default,70
+68,NetDwellingsRangeTo,default,70
+68,"GeoX,GeoY",out of range,"-0.156235,184949.6"
+69,NetDwellingsRangeFrom,default,9
+69,NetDwellingsRangeTo,default,9
+69,"GeoX,GeoY",out of range,"-0.129321,181409.4"
+70,NetDwellingsRangeFrom,default,9
+70,NetDwellingsRangeTo,default,9
+70,"GeoX,GeoY",out of range,"-0.181627,184880.7"
+71,PlanningHistory,uri,Fitzrovia Area Action Plan http://camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/fitzrovia-aap.en
+71,NetDwellingsRangeFrom,default,20
+71,NetDwellingsRangeTo,default,20
+71,"GeoX,GeoY",out of range,"-0.131485,181466.1"
+72,NetDwellingsRangeFrom,default,27
+72,NetDwellingsRangeTo,default,27
+72,"GeoX,GeoY",out of range,"-0.137041,184130.22"
+73,PlanningHistory,uri,Fitzrovia Area Action Plan http://camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/fitzrovia-aap.en
+73,NetDwellingsRangeFrom,default,27
+73,NetDwellingsRangeTo,default,27
+73,"GeoX,GeoY",out of range,"-0.136423,182013.73"
+74,NetDwellingsRangeFrom,default,29
+74,NetDwellingsRangeTo,default,29
+74,"GeoX,GeoY",out of range,"-0.177934,185501.59"
+75,NetDwellingsRangeFrom,default,14
+75,NetDwellingsRangeTo,default,14
+75,"GeoX,GeoY",out of range,"-0.192401,184299.15"
+76,NetDwellingsRangeFrom,default,5
+76,NetDwellingsRangeTo,default,5
+76,"GeoX,GeoY",out of range,"-0.131334,183019.78"
+77,NetDwellingsRangeFrom,default,42
+77,NetDwellingsRangeTo,default,42
+77,"GeoX,GeoY",out of range,"-0.142591,185439.44"
+78,NetDwellingsRangeFrom,default,8
+78,NetDwellingsRangeTo,default,8
+78,"GeoX,GeoY",out of range,"-0.117385,182938.34"
+79,NetDwellingsRangeFrom,default,60
+79,NetDwellingsRangeTo,default,60
+79,"GeoX,GeoY",out of range,"-0.16637,185317.54"
+80,NetDwellingsRangeFrom,default,7
+80,NetDwellingsRangeTo,default,7
+80,"GeoX,GeoY",out of range,"-0.138714,182261.74"
+81,NetDwellingsRangeFrom,default,136
+81,NetDwellingsRangeTo,default,136
+81,"GeoX,GeoY",out of range,"-0.131227,183171.94"
+82,NetDwellingsRangeFrom,default,573
+82,NetDwellingsRangeTo,default,573
+82,"GeoX,GeoY",out of range,"-0.149726,184157.98"
+83,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-development-plan/
+83,NetDwellingsRangeFrom,default,94
+83,NetDwellingsRangeTo,default,94
+83,"GeoX,GeoY",out of range,"-0.131601,183599.34"
+84,NetDwellingsRangeFrom,default,13
+84,NetDwellingsRangeTo,default,13
+84,"GeoX,GeoY",out of range,"-0.14126,184770.87"
+85,NetDwellingsRangeFrom,default,5
+85,NetDwellingsRangeTo,default,5
+85,"GeoX,GeoY",out of range,"-0.121154,181321.94"
+86,NetDwellingsRangeFrom,default,12
+86,NetDwellingsRangeTo,default,12
+86,"GeoX,GeoY",out of range,"-0.154116,184175.05"
+87,NetDwellingsRangeFrom,default,7
+87,NetDwellingsRangeTo,default,7
+87,"GeoX,GeoY",out of range,"-0.154116,184155.3"
+88,NetDwellingsRangeFrom,default,5
+88,NetDwellingsRangeTo,default,5
+88,"GeoX,GeoY",out of range,"-0.106024,181812.31"
+89,NetDwellingsRangeFrom,default,5
+89,NetDwellingsRangeTo,default,5
+89,"GeoX,GeoY",out of range,"-0.202437,184570.82"
+90,NetDwellingsRangeFrom,default,8
+90,NetDwellingsRangeTo,default,8
+90,"GeoX,GeoY",out of range,"-0.141384,184712.98"
+91,NetDwellingsRangeFrom,default,9
+91,NetDwellingsRangeTo,default,9
+91,"GeoX,GeoY",out of range,"-0.176847,184518.87"
+92,NetDwellingsRangeFrom,default,6
+92,NetDwellingsRangeTo,default,6
+92,"GeoX,GeoY",out of range,"-0.143569,185528.44"
+93,NetDwellingsRangeFrom,default,36
+93,NetDwellingsRangeTo,default,36
+93,"GeoX,GeoY",out of range,"-0.136356,184018.79"
+94,NetDwellingsRangeFrom,default,52
+94,NetDwellingsRangeTo,default,52
+94,"GeoX,GeoY",out of range,"-0.140143,184130.54"
+95,NetDwellingsRangeFrom,default,8
+95,NetDwellingsRangeTo,default,8
+95,"GeoX,GeoY",out of range,"-0.13773,183415.86"
+96,NetDwellingsRangeFrom,default,11
+96,NetDwellingsRangeTo,default,11
+96,"GeoX,GeoY",out of range,"-0.125285,181438.1"
+97,NetDwellingsRangeFrom,default,14
+97,NetDwellingsRangeTo,default,14
+97,"GeoX,GeoY",out of range,"-0.175653,184345.83"
